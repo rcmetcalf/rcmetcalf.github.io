@@ -1,6 +1,6 @@
 # Rachel Metcalf
 
-## Degree
+## Degrees
 
 * B.A. Journalism and Mass Communications
 
@@ -10,11 +10,11 @@
 
 ## Contact
 
-rmetcalf@live.unc.edu (252)-269-6564
+rmetcalf@live.unc.edu | (252)-269-6564
 
 ## Education 
 
-1. University of North Carolina at Chapel Hill c/o 2017
+University of North Carolina at Chapel Hill c/o 2017
 
 ## Research Interests
 
