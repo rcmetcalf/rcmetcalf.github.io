@@ -3,13 +3,13 @@ title: "Rachel Metcalf"
 email: rmetcalf@live.unc.edu
 description: "Personal webpage for Rachel Metcalf."
 baseurl: ""
-url: "rcmetcalf.github.io"
+url: "http://carte-noire.jacobtomlinson.co.uk/"
 title_description: "Undergraduate student at the University of North Carolina at Chapel Hill."
 title_image: "https://avatars2.githubusercontent.com/u/13002608?v=3&s=460"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/rcmetcalf/rcmetcalf.github.io
-# addthis_id: ra-513c6fa83da6ec67
+addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
@@ -19,7 +19,7 @@ linkedin_link: https://www.linkedin.com/in/rachelmetcalf
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "<a href=\"https://github.com/rcmetcalf/rcmetcalf.github.io">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/rcmetcalf/rcmetcalf.github.io">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: redcarpet
