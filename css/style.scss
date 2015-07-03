@@ -26,6 +26,7 @@ $medium-purple:  #480048;
 $regular-purple: #601848;
 $red:            #C04848;
 $orange:         #F07241;
+$powder-blue:	 #B0E0E6;
 
 /* Responsive sizes */
 $screen-sm-min: 768px;
@@ -42,8 +43,8 @@ html {
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
-	background-color: $dark;
-	color: $white;
+	background-color: $white;
+	color: $dark;
 	font-size: 16px;
 	height: 100%;
 	width: 100%
@@ -124,7 +125,7 @@ ul {
 }
 
 .content-panel {
-	background-color: $medium;
+	background-color: $powder-blue;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	padding-left: 30px;
