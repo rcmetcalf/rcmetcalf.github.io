@@ -17,4 +17,4 @@ tags:
 
 add info later
 
-I first learned about cultural resources management when I began my internship at [Tryon Palace](www.tryonpalace.org). blah blah more
+I first learned about cultural resources management when I began my internship at [Tryon Palace](tryonpalace.org). blah blah more
