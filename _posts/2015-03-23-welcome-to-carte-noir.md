@@ -24,6 +24,6 @@ Courses:
 	* ANTH 451 Archaeology Field School
 	* ANTH 250 North American Archaeology
 	* ANTH 222 Prehistoric Art
-	* add more
+	* more
 
 Cumulative GPA: 3.703
