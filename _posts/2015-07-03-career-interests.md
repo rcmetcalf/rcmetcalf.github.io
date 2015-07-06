@@ -1,20 +1,17 @@
 ---
 layout:		post
-title:		Career Interests
-summary:	Post-graduation plans.
-categories: Work Experience, Career
+title:		About
+summary:	Personal interests and general info about me.
+categories: Work Experience, Interests
 thumbnail: 
 tags:
  - public relations
  - marketing
  - communications
- - event promotion
+ - history
  - cultural resources management
- - internship
- - education
+ - archaeology
  
 ---
 
-add info later
-
-I first learned about cultural resources management when I interned at [Tryon Palace](http://tryonpalace.org/). blah blah more
+# Welcome to the personal webpage for Rachel Metcalf.
