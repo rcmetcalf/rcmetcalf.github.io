@@ -3,7 +3,7 @@ title: Northanger Abbey
 author: Jane Austen
 editor: Rachel Metcalf
 date-published: 1803
-layout: default
+layout: post
 ---
 
 
@@ -60,6 +60,9 @@ The public are entreated to bear in mind that thirteen years have passed
 since it was finished, many more since it was begun, and that during
 that period, places, manners, books, and opinions have undergone
 considerable changes.
+
+
+
 
 
 
