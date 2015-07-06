@@ -3,7 +3,7 @@ title: Northanger Abbey
 author: Jane Austen
 editor: Rachel Metcalf
 date-published: 1803
-layout: post
+layout: page
 ---
 
 
@@ -16,12 +16,9 @@ with this eBook or online at www.gutenberg.org
 
 
 Title: Northanger Abbey
-
 Author: Jane Austen
-
 Release Date: April, 1994  [Etext #121]
 Last Updated: September 24, 2013
-
 Language: English
 
 
@@ -37,11 +34,7 @@ Produced by An Anonymous Volunteer
 
 
 NORTHANGER ABBEY
-
-
-by
-
-Jane Austen (1803)
+by Jane Austen (1803)
 
 
 
@@ -63,7 +56,7 @@ considerable changes.
 
 
 
-
+#### Excerpt from *Northanger Abbey
 
 
 # CHAPTER 1
@@ -151,7 +144,7 @@ serviceable and so soothing in the vicissitudes of their eventful lives.
 
 From Pope, she learnt to censure those who
 
- > "bear about the mockery of woe."
+> "bear about the mockery of woe."
 
 
 From Gray, that
