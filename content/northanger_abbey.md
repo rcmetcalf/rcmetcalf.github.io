@@ -16,9 +16,13 @@ with this eBook or online at www.gutenberg.org
 
 
 Title: Northanger Abbey
+
 Author: Jane Austen
+
 Release Date: April, 1994  [Etext #121]
+
 Last Updated: September 24, 2013
+
 Language: English
 
 
@@ -34,7 +38,11 @@ Produced by An Anonymous Volunteer
 
 
 NORTHANGER ABBEY
-by Jane Austen (1803)
+
+
+by
+
+Jane Austen (1803)
 
 
 
