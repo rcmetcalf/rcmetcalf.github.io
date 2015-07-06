@@ -3,7 +3,7 @@ title: Northanger Abbey
 author: Jane Austen
 editor: Rachel Metcalf
 date-published: 1803
-layout: page
+layout: post
 ---
 
 
