@@ -2,7 +2,6 @@
 layout:     post
 title:      Education
 summary:    Details of undergraduate career at UNC-Chapel Hill.
-categories: Education
 thumbnail: 
 author: Rachel Metcalf
 tags:
@@ -21,6 +20,9 @@ Despite a diverse range of interests, including history, writing, design, and ev
 
 I am working towards a B.A. in Media and Journalism, with a concentration in Public Relations, and a B.A. in Archaeology. In addition to these degree programs, I am minoring in Information and Library Science.
 
+In Fall 2015, I will begin taking core classes for the Journalism and Mass Communications degree program.
+
+
 Courses:
 
 * ANTH 222 Prehistoric Art
@@ -36,7 +38,6 @@ Courses:
 * HIST 127 American History to 1865
 * SPAN 203 Intermediate Spanish I
 * SPAN 204 Intermediate Spanish II
-
-
+ 
 
 Cumulative GPA: 3.703

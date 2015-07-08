@@ -2,7 +2,6 @@
 layout:		post
 title:		About
 summary:	Personal interests and general info about me.
-categories: Work Experience, Interests
 thumbnail: 
 author: Rachel Metcalf
 tags:
@@ -16,3 +15,7 @@ tags:
 ---
 
 # Welcome to the personal webpage for Rachel Metcalf.
+
+"add very brief 'about me' here"
+
+Explore the site to learn more about me!
