@@ -19,7 +19,7 @@ github_username:  rcmetcalf
 linkedin_link: https://www.linkedin.com/in/rachelmetcalf
 
 # Footer
-footer_left: Contact me | <a href="http://heelmail.unc.edu/{{ site.email }}">{{ site.email }}</a>
+footer_left: Contact me | <a href="http://heelmail.unc.edu/{{ site.email }}">rmetcalf@live.unc.edu</a>
 footer_right: Looking for something in particular? <a href="http://rcmetcalf.github.io/search/">Search it.</a>
 
 # Build settings
