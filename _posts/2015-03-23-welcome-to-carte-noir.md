@@ -23,10 +23,20 @@ I am working towards a B.A. in Media and Journalism, with a concentration in Pub
 
 Courses:
 
-* ANTH 451 Archaeology Field School
-* ANTH 250 North American Archaeology
 * ANTH 222 Prehistoric Art
-* more
+* ANTH 250 North American Archaeology
+* ANTH 411 Lab Method in Archaeology
+* ANTH 416 Bioarchaeology
+* ANTH 451 Archaeology Field School
+* CLAR 120 Ancient Cities
+* CLAR 247 Roman Archaeology
+* ECON 101 Introduction to Economics
+* ECON 410 Intermediate Micro Theory
+* INLS 161 Tools for Information Literacy
+* HIST 127 American History to 1865
+* SPAN 203 Intermediate Spanish I
+* SPAN 204 Intermediate Spanish II
+
 
 
 Cumulative GPA: 3.703
