@@ -3,7 +3,8 @@ layout:     post
 title:      Marketing and Public Relations 
 summary:    Experiences in marketing, communications, and public relations work.
 categories: Work Experience
-thumbnail: 
+thumbnail: https://avatars2.githubusercontent.com/u/13002608?v=3&s=460
+author: Rachel Metcalf
 tags:
  - public relations
  - marketing

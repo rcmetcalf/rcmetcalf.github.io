@@ -4,6 +4,7 @@ title:		About
 summary:	Personal interests and general info about me.
 categories: Work Experience, Interests
 thumbnail: 
+author: Rachel Metcalf
 tags:
  - public relations
  - marketing
