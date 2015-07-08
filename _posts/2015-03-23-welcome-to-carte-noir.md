@@ -4,6 +4,7 @@ title:      Education
 summary:    Details of undergraduate career at UNC-Chapel Hill.
 categories: Education
 thumbnail: 
+author: Rachel Metcalf
 tags:
  - journalism
  - archaeology
