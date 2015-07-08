@@ -18,6 +18,9 @@ twitter_username: rmetcow
 github_username:  rcmetcalf
 linkedin_link: https://www.linkedin.com/in/rachelmetcalf
 
+# Footer
+footer_left: Contact me | <a href="http://heelmail.unc.edu/{{ site.email }}">{{ site.email }}</a>
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/rcmetcalf/">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: redcarpet
