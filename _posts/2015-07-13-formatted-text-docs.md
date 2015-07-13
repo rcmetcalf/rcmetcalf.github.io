@@ -10,7 +10,7 @@ tags:
  - pdf
  - odt
  - md
- - txt
+ - text
  
 ---
 
