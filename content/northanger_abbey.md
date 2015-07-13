@@ -152,40 +152,40 @@ serviceable and so soothing in the vicissitudes of their eventful lives.
 
 From Pope, she learnt to censure those who
 
-> "bear about the mockery of woe."
+> bear about the mockery of woe.  
 
 
 From Gray, that
 
-> "Many a flower is born to blush unseen,
-> "And waste its fragrance on the desert air."
+> Many a flower is born to blush unseen,  
+> And waste its fragrance on the desert air.  
 
 
 From Thompson, that--
 
-> "It is a delightful task
-> "To teach the young idea how to shoot."
+> It is a delightful task  
+> To teach the young idea how to shoot.  
 
 
 And from Shakespeare she gained a great store of information--amongst
 the rest, that--
 
-> "Trifles light as air,
-> "Are, to the jealous, confirmation strong,
-> "As proofs of Holy Writ."
+> Trifles light as air,  
+> Are, to the jealous, confirmation strong,  
+> As proofs of Holy Writ.  
 
 
 That
 
-> "The poor beetle, which we tread upon,
-> "In corporal sufferance feels a pang as great
-> "As when a giant dies."
+> The poor beetle, which we tread upon,  
+> In corporal sufferance feels a pang as great  
+> As when a giant dies.  
 
 
 And that a young woman in love always looks--
 
-> "like Patience on a monument
-> "Smiling at Grief."
+> like Patience on a monument  
+> Smiling at Grief.  
 
 
 So far her improvement was sufficient--and in many other points she came
