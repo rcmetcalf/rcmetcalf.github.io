@@ -15,11 +15,11 @@ tags:
 
 # Upload files here!
 
+<a href="http://rcmetcalf.github.io/content/northanger_abbey.txt">northanger_abbey.txt file</a>
+
 <a href="http://rcmetcalf.github.io/content/northanger_abbey.docx">northanger_abbey.docx file</a>
 
 <a href="http://rcmetcalf.github.io/content/northanger_abbey.md">northanger_abbey.md file</a>
-
-Add .txt file
 
 <a href="http://rcmetcalf.github.io/content/northanger_abbey.odt">northanger_abbey.odt file</a>
 
