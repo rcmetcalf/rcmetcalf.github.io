@@ -14,10 +14,9 @@ tags:
  
 ---
 
-# Click to view files.
+# <center>Click to view files.</center>
 
-Each file formatted using pandoc commands.  
-*Original .txt file downloaded from <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a>*  
+*Each file formatted using pandoc commands. Original .txt file downloaded from <a href="https://www.gutenberg.org/" target="_blank">Project Gutenberg</a>.* 
 
 
 <a href="http://rcmetcalf.github.io/content/northanger_abbey.txt" target="_blank">northanger_abbey.txt file</a>
