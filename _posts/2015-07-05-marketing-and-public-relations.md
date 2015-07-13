@@ -14,7 +14,8 @@ tags:
  - blog
  
 ---
-# Experienced in marketing, communications, and public relations work. 
+# <center>Experienced in marketing, communications, and public relations work.</center>  
+
 
 "insert something cool here about marketing & PR work"
 

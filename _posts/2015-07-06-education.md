@@ -14,9 +14,10 @@ tags:
  
 ---
 
-# Proud Tar Heel at the University of North Carolina at Chapel Hill.
+# <center>Proud Tar Heel at the University of North Carolina at Chapel Hill.</center>  
 
-Despite a diverse range of interests, including history, writing, design, and event planning, I was able to structure a degree program that fully engaged my interests.
+
+I have a diverse range of interests, including history, writing, design, and event planning. I was able to structure a degree program that fully engaged my interests.
 
 I am working towards a B.A. in Media and Journalism, with a concentration in Public Relations, and a B.A. in Archaeology. In addition to these degree programs, I am minoring in Information and Library Science.
 
