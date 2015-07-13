@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Formatted Text Documents 
+title:      Formatted Text Docs 
 summary:    Project for INLS 161. Formatting multiple types of text documents.
 thumbnail: 
 author: Rachel Metcalf
