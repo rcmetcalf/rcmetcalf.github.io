@@ -10,7 +10,7 @@ tags:
  - pdf
  - odt
  - md
- -txt
+ - txt
  
 ---
 
@@ -20,7 +20,7 @@ tags:
 
 <a href="http://rcmetcalf.github.io/content/northanger_abbey.docx">northanger_abbey.docx file</a>
 
-<a href="http://rcmetcalf.github.io/content/northanger_abbey.md">northanger_abbey.md file</a>
+<a href="http://rcmetcalf.github.io/content/northanger_abbey">northanger_abbey.md file</a>
 
 <a href="http://rcmetcalf.github.io/content/northanger_abbey.odt">northanger_abbey.odt file</a>
 
