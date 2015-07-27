@@ -18,6 +18,6 @@ tags:
 
 <a href="http://rcmetcalf.github.io/inls161-revealjs-template">Click here to view my presentation.</a>
 
-<a href="information-sources.txt">Information Sources</a>
+<a href="http://rcmetcalf.github.io/information-sources.txt">Information Sources</a>
 
-<a href="image-sources.txt">Image Sources</a>
+<a href="http://rcmetcalf.github.io/image-sources.txt">Image Sources</a>
