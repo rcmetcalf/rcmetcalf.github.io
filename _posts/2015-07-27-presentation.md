@@ -21,3 +21,5 @@ tags:
 <a href="http://rcmetcalf.github.io/information-sources.txt">Information Sources</a>
 
 <a href="http://rcmetcalf.github.io/image-sources.txt">Image Sources</a>
+
+<a href="http://rcmetcalf.github.io/video-sources.txt">Video Sources</a>
