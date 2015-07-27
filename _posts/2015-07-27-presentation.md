@@ -6,7 +6,6 @@ thumbnail:
 author: Rachel Metcalf
 tags:
  - presentations
- - internship
  - marketing
  - communications
  - history
