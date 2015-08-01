@@ -3,7 +3,7 @@ layout:		post
 title:		Course Work
 summary:	All class assignments from INLS 161: Tools for Information Literacy.
 thumbnail: 
-author:		Rachel Metcalf
+author:	Rachel Metcalf
 tags:
 - presentation
 - spreadsheet
@@ -12,8 +12,8 @@ tags:
 
 ---
 
-# INLS 161
-## Tools for Information Literacy
+# <center>INLS 161</center>
+## <center>Tools for Information Literacy</center>
 
 This post contains all completed assignments from INLS 161. Click the links below to view my work.
 
