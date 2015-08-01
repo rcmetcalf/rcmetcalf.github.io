@@ -45,9 +45,9 @@ This post contains all completed assignments from INLS 161. Click the links belo
 
 <a href="http://rcmetcalf.github.io/content/inls-161-book-database.odb">inls-161-book-database.odb</a>
 
-### Reveal.js Final Presentation
+### Revealjs Final Presentation
 
-*Presentation about historical signifiance of hometown: New Bern, North Carolina.*
+*Presentation about historical signifiance of hometown, New Bern, North Carolina.*
 
 *Self-running and narrated presentation.*
 
