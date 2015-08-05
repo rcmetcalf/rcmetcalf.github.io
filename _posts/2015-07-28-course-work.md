@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Course Work
+title: INLS 161 Coursework
 summary: All class assignments from INLS 161, Tools for Information Literacy.
 thumbnail: 
 author:	Rachel Metcalf
 tags:
  - presentation
- - spreadsheet
- - database
- - formatting documents
+ - information science
+ - coursework
+ - document formatting
 
 ---
 
