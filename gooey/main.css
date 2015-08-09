@@ -1,11 +1,13 @@
 .nav li {
 	display: inline;
 	padding-right: 10px;
-	padding-left: 10px;
+	padding-left: 100px;
 	color: #000000;
 	text-transform: uppercase;
 	font-size: 20px;
 	text-align: center;
+	font-family: "Quicksand", sans-serif;
+	text-decoration: none;
 }
 
 .jumbotron {
@@ -26,17 +28,24 @@
 	text-align: center;
 }
 
-.learn-more {
-	font-family: "Pacifico", cursive;
-	background-color: #fffff5;
-	color: #000000;
-	font-size: 18px;
-	font-weight: bold;
+.row {
+  width: 100%;
+  text-align: center; 
+  font-family: "Pacifico", cursive;
+  background-color: #fffff5;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
 }
 
-.learn-more p {
-	font-family: "Arial", sans-serif;
-	color: #373736;
+.block {
+  width: 100px;
+  display: inline-block; 
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  color: #000000;
+  font-size: 15px;
+  border-radius: 50%;
 }
 
 .footer {
@@ -52,24 +61,4 @@
 	border: 3px solid #000000;
 }
 
- .desc-block-left1 {
-    display:inline-block;
-    border-style:solid;
-	border-color: #ffffff;
-    background-color:#ff7575;
-    width:40%;
-    height:110px;
-    margin:30px 10px 10px 5%;
-    border-radius:50px;
-}
- .desc-block-right1 {
-    display:inline-block;
-    border-style:solid;
-	border-color: #ffffff;
-    background-color:#ff7575;
-    width:40%;
-    height:110px;
-    margin:30px 10px 10px 5%;
-    border-radius:50px;
-}
 
