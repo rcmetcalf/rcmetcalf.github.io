@@ -44,25 +44,25 @@
 .row {
   width: 100%;
   height: 500px;
-  background-color: #fffff5;
+  background-color: #ffffff;
 }
 
 .block {
   font-family: "Pacifico", cursive;
   font-size: 30px;
   color: #ffffff;
-  width: 100px;
+  width: 400px;
+  height: 275px;
   display: inline-block; 
   text-align: center;
   background-color: #ff7575;
   border-radius: 50px;
-  padding-top: 200px;
 }
 
 .block p {
   font-family: "Quicksand", sans-serif;
   color: #000000;
-  font-size: px;
+  font-size: 20px;
 }
 
 .footer {
