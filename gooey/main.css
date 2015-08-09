@@ -7,7 +7,12 @@
 	font-size: 20px;
 	text-align: center;
 	font-family: "Quicksand", sans-serif;
+	
+}
+
+.nav a {
 	text-decoration: none;
+	color: #000000;
 }
 
 .jumbotron {
@@ -30,18 +35,21 @@
 
 .row {
   width: 100%;
-  text-align: center; 
-  font-family: "Pacifico", cursive;
+  height: 500px;
   background-color: #fffff5;
-  color: #ffffff;
+}
+
+h3.block {
+  font-family: "Pacifico", cursive;
   font-size: 20px;
-  font-weight: bold;
+  color: #ffffff;
 }
 
 .block {
   width: 100px;
   display: inline-block; 
   text-align: center;
+  background-color: #ff7575;
   font-family: "Quicksand", sans-serif;
   color: #000000;
   font-size: 15px;
