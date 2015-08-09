@@ -9,7 +9,7 @@
 }
 
 .jumbotron {
-	font-family: "Pacifico", sans-serif;
+	font-family: "Pacifico", cursive;
 	background-color: #ff7575;
 	height: 300px;
 	font-weight: bold;
@@ -20,13 +20,14 @@
 
 
 .jumbotron p {
+	font-family: "Quicksand", sans-serif;
 	color: #ffffff;
 	font-size: 20px;
 	text-align: center;
 }
 
 .learn-more {
-	font-family: "Pacifico", sans-serif;
+	font-family: "Pacifico", cursive;
 	background-color: #fffff5;
 	color: #000000;
 	font-size: 18px;
@@ -54,19 +55,21 @@
  .desc-block-left1 {
     display:inline-block;
     border-style:solid;
+	border-color: #ffffff;
     background-color:#ff7575;
     width:40%;
     height:110px;
     margin:30px 10px 10px 5%;
-    border-radius:10px;
+    border-radius:50px;
 }
  .desc-block-right1 {
     display:inline-block;
     border-style:solid;
+	border-color: #ffffff;
     background-color:#ff7575;
     width:40%;
     height:110px;
     margin:30px 10px 10px 5%;
-    border-radius:10px;
+    border-radius:50px;
 }
 
