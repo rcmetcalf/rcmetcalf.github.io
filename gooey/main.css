@@ -23,6 +23,12 @@
 	padding: 10px;
 }
 
+body {
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 0;
+}
+
 .jumbotron {
 	font-family: "Pacifico", cursive;
 	background-color: #ff7575;
