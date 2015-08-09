@@ -53,14 +53,14 @@
   font-size: 30px;
   color: #ffffff;
   width: 400px;
-  height: 275px;
+  height: 300px;
   display: inline-block; 
   text-align: center;
   text-transform: uppercase;
   margin: 50px;
 }
 
-.block p {
+p.block {
   font-family: "Quicksand", sans-serif;
   color: #000000;
   font-size: 20px;
