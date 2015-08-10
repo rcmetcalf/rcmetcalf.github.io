@@ -112,15 +112,14 @@ img {
 	text-transform: uppercase;
 	position: absolute;
 	top: 700px;
-	left: auto;
-	right: auto;
+	left: 500px;
 }
 
 .contact p {
 	font-family: "Quicksand", sans-serif;
 	font-size: 40px;
 	font-weight: bold;
-	text-transform: lowercase;
+	text-transform: uppercase;
 	color: #5E8978;
 }
 
