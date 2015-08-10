@@ -27,6 +27,8 @@ body {
 	margin-left: 25px;
 	margin-right: 25px;
 	margin-top: 0;
+	border: 0;
+	padding: 0;
 }
 
 .jumbotron {
@@ -34,7 +36,7 @@ body {
 	font-family: "Pacifico", cursive;
 	height: 450px;
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 70px;
 	color: #ffffff;
 	text-align: center;
 	background-size: 100% 100%;
@@ -44,7 +46,8 @@ body {
 .jumbotron p {
 	font-family: "Quicksand", sans-serif;
 	color: #ffffff;
-	font-size: 20px;
+	font-size: 25px;
+	font-weight: bold;
 	text-align: center;
 }
 
