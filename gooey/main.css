@@ -89,11 +89,11 @@ body {
 }
 
 .block1 {
-	width: 100%;
+	width: 960px;
 	height: 250px;
 	margin: 50px;
 	position: absolute;
-	top: 1400px;
+	top: 1300px;
 }
 
 h3 {
