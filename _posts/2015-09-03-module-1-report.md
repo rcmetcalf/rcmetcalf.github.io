@@ -9,7 +9,7 @@ tags:
  - coursework
 
 ---
-# INLS 201
+# <center>INLS 201</center>
 
 ## <center>What is information?</center>
 If there is one thing I have learned about information from this past module, it is that information can be represented in many different ways and in many different subjects. Information can be difficult to define because of these qualities, but through the readings and class discussion, I like to think of information as a form of communication that uses various symbols, including numbers, words, shapes, and even colors, to express some meaningful message.
