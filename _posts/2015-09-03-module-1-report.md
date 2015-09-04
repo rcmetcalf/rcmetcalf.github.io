@@ -32,7 +32,7 @@ Even road signs and the information they convey have been an important part of m
 
 I think everyone has a different understanding of information. When I asked my friends what they thought "information" was, most talked about social media, Google, and the "bombardment" of information in today's culture, but no one had a concrete definition. I think that says a lot about what information actually is. To understand information, I think people need to accept that information comes in all shapes and forms, and it can be studied in an interdisciplinary context. 
 
-I think information can be understood very differently depending on the subject and the researcher. For example, a math major may think of information as numbers or formulas, while a journalism major may think of information as words and images. I think it is important for everyone to understand that information is a very social subject, and so, it is created and shared a certain way depending on who is interpreting the information. Just because our idea of information differs from someone else's does not mean it is wrong. 
+I think information can be understood very differently depending on the subject and the researcher. For example, a math major may think of information as numbers or formulas, while a journalism major may think of information as words and images. I think it is important for everyone to understand that information is a very social subject; it is created and shared a certain way depending on who is interpreting the information. Just because our idea of information differs from someone else's does not mean it is wrong. 
 
 It's just a different way of looking at it!
 
