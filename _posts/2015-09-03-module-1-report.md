@@ -37,5 +37,5 @@ I think information can be understood very differently depending on the subject 
 
 It's just a different way of looking at it!
 
-P.S. I thought this was cool.
+P.S. I thought this was cool. 
 <a href="https://youtu.be/kt3csIz3hEk">Claude Shannon's Ultimate Machine</a>
