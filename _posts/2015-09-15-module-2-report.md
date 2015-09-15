@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Module 2 Report
 summary: Module 2 Report for INLS 201
 thumbnail: 
@@ -11,7 +11,7 @@ tags:
 ---
 # <center>INLS 201</center>
 ## <center>Organizing Information</center>
-<body>
+
 <p>
 <strong><a href="#section1">I. Introduction</a></strong><br>
   a. How to use this page <br>
@@ -29,9 +29,9 @@ tags:
 <br>
 <br>
 
-<a name="section1">###Introduction</a><br>
+###<a name="section1">Introduction</a><br>
 My name is Rachel Metcalf.
 </p>
-</body>
+
 
 
