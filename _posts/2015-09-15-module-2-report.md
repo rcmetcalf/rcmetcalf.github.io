@@ -33,5 +33,8 @@ tags:
 My name is Rachel Metcalf.
 
 
+<a name="section2">Task 1</a><br>
 
+
+<a name="section3">Task 2</a><br>
 
