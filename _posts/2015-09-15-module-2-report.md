@@ -29,7 +29,7 @@ tags:
 <br>
 <br>
 
-###<a name="section1">Introduction</a><br>
+<h3><a name="section1">Introduction</a></h3><br>
 My name is Rachel Metcalf.
 </p>
 
