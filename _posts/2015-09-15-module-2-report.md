@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Module 2 Report
 summary: Module 2 Report for INLS 201
 thumbnail: 
