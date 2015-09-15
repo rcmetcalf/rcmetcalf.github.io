@@ -12,7 +12,7 @@ tags:
 # <center>INLS 201</center>
 ## <center>Organizing Information</center>
 
-<p>
+
 <strong><a href="#section1">I. Introduction</a></strong><br>
   a. How to use this page <br>
   b. How this page is organized <br>
@@ -29,9 +29,9 @@ tags:
 <br>
 <br>
 
-<h3><a name="section1">Introduction</a></h3><br>
+<a name="section1">Introduction</a><br>
 My name is Rachel Metcalf.
-</p>
+
 
 
 
