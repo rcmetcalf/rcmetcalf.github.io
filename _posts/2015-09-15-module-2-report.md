@@ -14,21 +14,20 @@ tags:
 
 <strong><a href="#section1">I. About this page</a></strong><br>
   a. How it works <br>
-  b. <br>
 <strong><a href="#section2">II. Task 1</a></strong><br>
   <a href="#section2.1">a. Identify tasks I perform as a student</a><br>
   <a href="#section2.2">b. Identify kinds of info I use to perform each task</a><br>
   <a href="#section2.3">c. How I organize these items in my workspace</a><br>
 <strong><a href="#section3">III. Task 2</a></strong><br>
   <a href=#section3.1">a. How my non-academic resources are organized</a><br>
-  <a href="#section3.2">b. How SILS helps me organize digital content</a><br>
+  <a href="#section3.2">b. How SILS influences my digital organization</a><br>
   <a href="#section3.3">c. Percentage of school-related content in digital and physical deskspace</a><br>
   <a href="#section3.4">d. Pros and Cons of my organizational structure</a><br>
 <strong><a href="#section4">IV. Images</a></strong><br>
 <br>
 
 <strong><a name="section1">About this page</a></strong><br>
-a. The index above is linked to subject titles. For example, "I. About this page" in the index links to the "About this page" title directly above. (try it)
+a. The index above is linked to subject titles. For example, "I. About this page" in the index links to the "About this page" title directly above. (try it)<br>
 
 <strong><a name="section2">Task 1</a></strong><br>
 <a name="section2.1">a. Tasks I perform as a student:</a><br>
@@ -60,14 +59,25 @@ a. The index above is linked to subject titles. For example, "I. About this page
 * Music -- I think my music files are more well-organized than other files on my computer. I use the music player Spotify to listen to music. On Spotify, you can make playlists, "star" songs you like, and follow other people's playlists. My playlists are Spotify are all named for the type of music they represent. For example, "workout," "tunes," and "Christmas!!" are all playlists that I compiled. The playlist "tunes" is an example of a controlled vocabulary. Although people may know that the word "tunes" means some type of music, they don't know what "tunes" means specifically in my vocabulary, so they can not guess the content of that playlist (my "tunes" playlist is all new music). Other playlists like "Best Cello Recordings" and "Epic Classical" were created by Spotify, so I did not name or compile these playlists. But they are well-labeled! I think my music is more organized than my digital documents because it makes for easy listening while studying. I don't have to constantly search through my computer to load the next song I want to hear; on Spotify, it plays automatically from the playlist. My Spotify playlist folder looks like this:<br>
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922911/2c609a7e-5cbc-11e5-8dab-2e941a9f06ca.png" />
 * Closet -- If nothing else in my room is organized, at least my closet is. My closet is roughly color-coded (prints can be tricky) from white, to pink/red, to blue/navy, to gray, to black. At the very far right of my closet, after the black clothing, are my dresses, color-coded in a similar order. Full-length dresses, however, are placed together, regardless of color, at the very end of the closet bar. That way, long dresses aren't hanging down into my shoes and other things at the bottom of the closet. I color-code because it helps me find clothing faster. I am notoriously slow at getting ready, so keeping my closet organized is one way to help expedite the process. Take a look at my closet here:<br>
-<image src="https://cloud.githubusercontent.com/assets/13002608/9933603/f41a507a-5d19-11e5-9c5b-688c11326ad6.JPG" />
-* For club meetings and other tasks, I use my email as a reminder system. I save "unread" emails in my inbox as reminders to to 1) read the email, 2) respond to the email, 3) remember the date or time listed in an email, or 4) research the email topic a little more.
-
-<a name="section3.2">b. How SILS helps me organize digital content</a><br>
+<image src="https://cloud.githubusercontent.com/assets/13002608/9933603/f41a507a-5d19-11e5-9c5b-688c11326ad6.JPG" /><br>
+* For club meetings and other tasks, I use my email as a reminder system. I save "unread" emails in my inbox as reminders to to 1) read the email, 2) respond to the email, 3) remember the date or time of an event listed in an email, or 4) research the email topic a little more. Here's some of the unread messages in my inbox:
+<image src="https://cloud.githubusercontent.com/assets/13002608/9922909/242a2898-5cbc-11e5-8a5f-5db90823446d.png" />
+<center>I save emails, such as the advising reminder above, to remember meetings and events!</center>
+After I complete a task liking replying to an email or going to the event, I mark the email as "read." It's similar to checking an item off a to-do list, just digitally. It's also easier for me to use my email as a reminder system because I can easily search my inbox for a specific email, just in case I marked one as "read" when it needed to stay "unread." <br><br>
+<a name="section3.2">b. How SILS influences my digital organization</a><br>
+After taking INLS 161, I started to change how I organize my information online. In class, we created a website and Github repositories, which I now use to post homework assignments and practice coding. Building a website has probably been the most helpful in improving my digital organization. If a file is not in the right folder or not linked to correctly, then my website won't load content correctly. I had to learn that folders were my friend!! Placing every single file on its own (as I do in my computer's "Documents" folder) does not work well in my website repository. I separate related content into different folders. For example, "_posts" folder contains all the information in my website posts, while "content" contains markdown files of class notes and other documents that I can link to on the website. Here's my repository for my wesite, <a href="http://rcmetcalf.github.io">rcmetcalf.github.io</a>:<br>
+<image src="https://cloud.githubusercontent.com/assets/13002608/9935298/cb8854d6-5d23-11e5-9299-4eaab166c033.png" />
+If I keep all my information organized correctly, then my webpage renders correctly...<br>
+<image src="https://cloud.githubusercontent.com/assets/13002608/9935363/2dffe782-5d24-11e5-964f-8b594e16263d.png" />
+If I don't keep it organized, then I get this...and a big headache<br>
+<image src="https://cloud.githubusercontent.com/assets/13002608/9935417/7aa411d0-5d24-11e5-9ab2-54f41a68f60e.png" />
+I'm trying to organize all of the digital content on my computer in the same way that I organize my repositories. That way, I won't have any problems finding information in case a Finder search fails.<br>
+<br>
 <a name="section3.3">c. Percentage of school-related content in digital and physical deskspace</a><br>
+
 <a name="section3.4">d. Pros and Cons of my organizational structure</a><br>
 
-
+<br>
 <strong><a name="section4">Images</a></strong><br>
 <a name="docs">Documents on my laptop</a><br>
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922907/2236c9ba-5cbc-11e5-825f-c1bef8e7de50.png">
