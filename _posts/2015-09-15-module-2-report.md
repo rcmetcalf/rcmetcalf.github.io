@@ -13,13 +13,12 @@ tags:
 ## <center>Organizing Information</center>
 
 <strong><a href="#section1">I. Introduction</a></strong><br>
-  a. How to use this page <br>
-  b. How this page is organized <br>
+  a.  <br>
+  b.  <br>
 <strong><a href="#section2">II. Task 1</a></strong><br>
   a. Identify tasks I perform as a student <br>
   b. Identify kinds of info I use to perform each task <br>
-  c. Generate concept map/list <br>
-  d. How I organize these items in my workspace <br>
+  c. How I organize these items in my workspace <br>
 <strong><a href="#section3">III. Task 2</a></strong><br>
   a. <br>
   b. <br>
@@ -32,8 +31,15 @@ a. The index above is linked to subject titles. For example, "I. Introduction" i
 
 
 <a name="section2">Task 1</a><br>
-a. As a student, most of my tasks center around notetaking and reading. I prefer to take my notes on my computer because I can search my notes using keywords, type more words than writing, and I don't have to worry about having the correct binder. I always have the right "notebook" when I have my Mac!
-
+a. Tasks I perform as a student:<br>
+* Take class notes, both on my computer and on paper
+* Make flashcards for studying
+* Read assigned texts, both online and in textbooks
+* Write essays, module reports, and other written assignments
+* Study for exams and quizzes
+* Go to academic advising appointments <br>
+b. Info I use to perform each task
+c. How I organize these items in my workspace <br>
 
 <a name="section3">Task 2</a><br>
 
