@@ -41,4 +41,4 @@ a. The index above is linked to subject titles. For example, "I. About this page
 <a name="section2.3">c. How I organize these items in my workspace</a><br>
 
 <strong><a name="section3">Task 2</a></strong><br>
-<image src="" />
+<image src="https://cloud.githubusercontent.com/assets/13002608/9922905/208ee426-5cbc-11e5-965c-6a470a223ad2.png" />
