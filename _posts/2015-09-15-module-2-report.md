@@ -50,6 +50,7 @@ a. The index above is linked to subject titles. For example, "I. About this page
 <center>Note the dated tabs and highlighted headings. I also use various levels of bullet points to denote content hierarchy.</center><br>
 * I wish I could say I was more organized, but I do not create separate folders for class content (readings or slides) that I download online. I heavily rely on the "search" function in Mac's Finder to locate content on my computer. This method works fairly well in my documents folder, where I name many of the files. It has not proven very effective in my downloads folder, because I often do not name or do not remember the name of the particular files; however, arranging files by "Date Modified" helps me sort out the relevant information.<br>
 * For physical content, such as textbooks and notebooks, I store less-utilized textbooks on my bedroom shelf -- out of the way. Textbooks and notebooks that are accessed more than once a week get prime real estate on my desk and dresser. These locations are much less organized than the bookshelf, though, because textbooks are always being exchanged for different subject books.<br>
+* 
 <strong><a name="section3">Task 2</a></strong><br>
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922905/208ee426-5cbc-11e5-965c-6a470a223ad2.png" />
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922907/2236c9ba-5cbc-11e5-825f-c1bef8e7de50.png" />
