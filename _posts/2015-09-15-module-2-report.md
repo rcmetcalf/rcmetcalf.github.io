@@ -23,7 +23,7 @@ tags:
   <a href="#section3.2">b. How SILS influences my digital organization</a><br>
   <a href="#section3.3">c. Percentage of school-related content in digital and physical deskspace</a><br>
   <a href="#section3.4">d. Pros and Cons of my organizational structure</a><br>
-<strong><a href="#section4">IV. Images</a></strong><br>
+<strong><a href="#section4">IV. Extra Images</a></strong><br>
 <br>
 
 <strong><a name="section1">About this page</a></strong><br>
