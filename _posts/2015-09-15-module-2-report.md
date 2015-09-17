@@ -26,11 +26,11 @@ tags:
   d. <br>
 <br>
 
-<a name="section1">Introduction</a><br>
+<strong><a name="section1">Introduction</a></strong><br>
 a. The index above is linked to subject titles. For example, "I. Introduction" in the index links to the "Introduction" title directly above. (try it)
 
 
-<a name="section2">Task 1</a><br>
+<strong><a name="section2">Task 1</a></strong><br>
 <a name="section2.1">a. Tasks I perform as a student:</a><br>
 * Take class notes, both on my computer and on paper <br>
 * Make flashcards for studying <br>
@@ -42,5 +42,5 @@ a. The index above is linked to subject titles. For example, "I. Introduction" i
 <a name="section2.2">b. Info I use to perform each task</a><br>
 <a name="section2.3">c. How I organize these items in my workspace</a><br>
 
-<a name="section3">Task 2</a><br>
+<strong><a name="section3">Task 2</a></strong><br>
 
