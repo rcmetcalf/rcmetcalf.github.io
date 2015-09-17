@@ -12,9 +12,9 @@ tags:
 # <center>INLS 201</center>
 ## <center>Organizing Information</center>
 
-<strong><a href="#section1">I. Introduction</a></strong><br>
-  a.  <br>
-  b.  <br>
+<strong><a href="#section1">I. About this page</a></strong><br>
+  a. How it works <br>
+  b. <br>
 <strong><a href="#section2">II. Task 1</a></strong><br>
   <a href="#section2.1">a. Identify tasks I perform as a student</a><br>
   <a href="#section2.2">b. Identify kinds of info I use to perform each task</a><br>
@@ -26,9 +26,8 @@ tags:
   d. <br>
 <br>
 
-<strong><a name="section1">Introduction</a></strong><br>
-a. The index above is linked to subject titles. For example, "I. Introduction" in the index links to the "Introduction" title directly above. (try it)
-
+<strong><a name="section1">About this page</a></strong><br>
+a. The index above is linked to subject titles. For example, "I. About this page" in the index links to the "About this page" title directly above. (try it)
 
 <strong><a name="section2">Task 1</a></strong><br>
 <a name="section2.1">a. Tasks I perform as a student:</a><br>
@@ -38,9 +37,8 @@ a. The index above is linked to subject titles. For example, "I. Introduction" i
 * Write essays, module reports, and other written assignments <br>
 * Study for exams and quizzes <br>
 * Go to academic advising appointments <br>
-<br>
 <a name="section2.2">b. Info I use to perform each task</a><br>
 <a name="section2.3">c. How I organize these items in my workspace</a><br>
 
 <strong><a name="section3">Task 2</a></strong><br>
-
+<image src="" />
