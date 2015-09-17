@@ -20,10 +20,11 @@ tags:
   <a href="#section2.2">b. Identify kinds of info I use to perform each task</a><br>
   <a href="#section2.3">c. How I organize these items in my workspace</a><br>
 <strong><a href="#section3">III. Task 2</a></strong><br>
-  a. <br>
-  b. <br>
-  c. <br>
-  d. <br>
+  <a href=#section3.1">a. How my non-academic resources are organized</a><br>
+  <a href="#section3.2">b. How SILS helps me organize digital content</a><br>
+  <a href="#section3.3">c. Percentage of school-related content in digital and physical deskspace</a><br>
+  <a href="#section3.4">d. Pros and Cons of my organizational structure</a><br>
+<strong><a href="#section4">IV. Images</a></strong><br>
 <br>
 
 <strong><a name="section1">About this page</a></strong><br>
@@ -38,7 +39,7 @@ a. The index above is linked to subject titles. For example, "I. About this page
 * Study for exams and quizzes <br>
 * Go to academic advising appointments <br><br>
 <a name="section2.2">b. Information I use to perform each task:</a><br>
-* Notes are copied from the professor's lecture -- written notes are kept in spiral notebooks, and typed notes are kept in separate class-specified docx files in my computer's "Documents" folder <br>
+* Notes are copied from the professor's lecture -- written notes are kept in spiral notebooks, and typed notes are kept in separate class-specified docx files in my computer's "Documents" folder (<a href="#docs">image of "Documents" folder</a>)<br>
 * Readings are either downloaded from the web or found in a textbook -- online readings are kept in my "Downloads" folder, and textbooks just find a home on my desk, dresser, or backpack for easy access
 * Slides or other visual aids used in the lecture are downloaded as extra reference for notes -- these files are downloaded from the class website or Sakai and usually kept only in my "Downloads" folder (I rarely move them to my "Documents" folder) <br>
 * Online sources and text sources are used to compile research for essays -- for online sources, I either bookmark the webpage or copy & paste the URL into a text editor document. I use sticky notes and highlighters to mark information in texts <br>
@@ -55,9 +56,18 @@ a. The index above is linked to subject titles. For example, "I. About this page
 * Online nformation collected for essays is stored on my computer in a text editor document, where each URL corresponds to an information source on the web. Text sources like textbooks are added to the mess of my desk, but they are large enough to find pretty easily; however, in my history class, I have to print a lot of single page documents for class discussion and essay writing. I store all of these paper documents in a three-hole-punch folder. It's bright blue and easy to find, even if it is piled under desk clutter.<br><br>
 
 <strong><a name="section3">Task 2</a></strong><br>
-<image src="https://cloud.githubusercontent.com/assets/13002608/9922905/208ee426-5cbc-11e5-965c-6a470a223ad2.png" />
-<image src="https://cloud.githubusercontent.com/assets/13002608/9922907/2236c9ba-5cbc-11e5-825f-c1bef8e7de50.png" />
-<image src="https://cloud.githubusercontent.com/assets/13002608/9922909/242a2898-5cbc-11e5-8a5f-5db90823446d.png" />
-<image src="https://cloud.githubusercontent.com/assets/13002608/9922910/2725b7b0-5cbc-11e5-91e2-5d340e7b6319.png" />
+<a name="section3.1">a. How my non-academic resources are organized</a><br>
+* Music -- I think my music files are more well-organized than other files on my computer. I use the music player Spotify to listen to music. On Spotify, you can make playlists, "star" songs you like, and follow other people's playlists. My playlists are Spotify are all named for the type of music they represent. For example, "workout," "tunes," and "Christmas!!" are all playlists that I compiled. The playlist "tunes" is an example of a controlled vocabulary. Although people may know that the word "tunes" means some type of music, they don't know what "tunes" means specifically in my vocabulary, so they can not guess the content of that playlist (my "tunes" playlist is all new music). Other playlists like "Best Cello Recordings" and "Epic Classical" were created by Spotify, so I did not name or compile these playlists. But they are well-labeled! I think my music is more organized than my digital documents because it makes for easy listening while studying. I don't have to constantly search through my computer to load the next song I want to hear; on Spotify, it plays automatically from the playlist. My Spotify playlist folder looks like this:<br>
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922911/2c609a7e-5cbc-11e5-8dab-2e941a9f06ca.png" />
-<image src="https://cloud.githubusercontent.com/assets/13002608/9923765/ca645792-5cc6-11e5-8704-2e806468f8d4.jpg" />
+* Closet -- If nothing else in my room is organized, at least my closet is. My closet is roughly color-coded (prints can be tricky) from white, to pink/red, to blue/navy, to gray, to black. At the very far right of my closet, after the black clothing, are my dresses, color-coded in a similar order. Full-length dresses, however, are placed together, regardless of color, at the very end of the closet bar. That way, long dresses aren't hanging down into my shoes and other things at the bottom of the closet. I color-code because it helps me find clothing faster. I am notoriously slow at getting ready, so keeping my closet organized is one way to help expedite the process. Take a look at my closet here:<br>
+<image src="https://cloud.githubusercontent.com/assets/13002608/9933603/f41a507a-5d19-11e5-9c5b-688c11326ad6.JPG" />
+* For club meetings and other tasks, I use my email as a reminder system. I save "unread" emails in my inbox as reminders to to 1) read the email, 2) respond to the email, 3) remember the date or time listed in an email, or 4) research the email topic a little more.
+
+<a name="section3.2">b. How SILS helps me organize digital content</a><br>
+<a name="section3.3">c. Percentage of school-related content in digital and physical deskspace</a><br>
+<a name="section3.4">d. Pros and Cons of my organizational structure</a><br>
+
+
+<strong><a name="section4">Images</a></strong><br>
+<a name="docs">Documents on my laptop</a><br>
+<image src="https://cloud.githubusercontent.com/assets/13002608/9922907/2236c9ba-5cbc-11e5-825f-c1bef8e7de50.png">
