@@ -38,7 +38,9 @@ a. The index above is linked to subject titles. For example, "I. About this page
 * Study for exams and quizzes <br>
 * Go to academic advising appointments <br>
 <a name="section2.2">b. Info I use to perform each task</a><br>
-*
+* textbooks <br>
+* PDFs and docx posted on Sakai <br>
+* <br>
 <a name="section2.3">c. How I organize these items in my workspace</a><br>
 
 <strong><a name="section3">Task 2</a></strong><br>
@@ -47,3 +49,4 @@ a. The index above is linked to subject titles. For example, "I. About this page
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922909/242a2898-5cbc-11e5-8a5f-5db90823446d.png" />
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922910/2725b7b0-5cbc-11e5-91e2-5d340e7b6319.png" />
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922911/2c609a7e-5cbc-11e5-8dab-2e941a9f06ca.png" />
+<image src="https://cloud.githubusercontent.com/assets/13002608/9923690/37388d44-5cc6-11e5-89e3-3bc8a504a6bc.jpg" />
