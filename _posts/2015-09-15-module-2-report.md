@@ -13,7 +13,7 @@ tags:
 ## <center>Organizing Information</center>
 
 <strong><a href="#section1">I. About this page</a></strong><br>
-  a. How it works <br>
+  <a href="#section1.1">a. How it works</a><br>
 <strong><a href="#section2">II. Task 1</a></strong><br>
   <a href="#section2.1">a. Identify tasks I perform as a student</a><br>
   <a href="#section2.2">b. Identify kinds of info I use to perform each task</a><br>
@@ -27,7 +27,8 @@ tags:
 <br>
 
 <strong><a name="section1">About this page</a></strong><br>
-a. The index above is linked to subject titles. For example, "I. About this page" in the index links to the "About this page" title directly above. (try it)<br>
+<a name="section1.1">a. How it works</a><br>
+* The index above is linked to subject titles. For example, "I. About this page" in the index links to the "About this page" title directly above. (try it)<br>
 
 <strong><a name="section2">Task 1</a></strong><br>
 <a name="section2.1">a. Tasks I perform as a student:</a><br>
