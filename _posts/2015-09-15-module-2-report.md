@@ -16,9 +16,9 @@ tags:
   a.  <br>
   b.  <br>
 <strong><a href="#section2">II. Task 1</a></strong><br>
-  a. Identify tasks I perform as a student <br>
-  b. Identify kinds of info I use to perform each task <br>
-  c. How I organize these items in my workspace <br>
+  <a href="#section2.1">a. Identify tasks I perform as a student</a><br>
+  <a href="#section2.2">b. Identify kinds of info I use to perform each task</a><br>
+  <a href="#section2.3">c. How I organize these items in my workspace</a><br>
 <strong><a href="#section3">III. Task 2</a></strong><br>
   a. <br>
   b. <br>
@@ -31,7 +31,7 @@ a. The index above is linked to subject titles. For example, "I. Introduction" i
 
 
 <a name="section2">Task 1</a><br>
-a. Tasks I perform as a student:<br>
+<a name="section2.1">a. Tasks I perform as a student:</a><br>
 * Take class notes, both on my computer and on paper <br>
 * Make flashcards for studying <br>
 * Read assigned texts, both online and in textbooks <br>
@@ -39,8 +39,8 @@ a. Tasks I perform as a student:<br>
 * Study for exams and quizzes <br>
 * Go to academic advising appointments <br>
 <br>
-b. Info I use to perform each task <br>
-c. How I organize these items in my workspace <br>
+<a name="section2.2">b. Info I use to perform each task</a><br>
+<a name="section2.3">c. How I organize these items in my workspace</a><br>
 
 <a name="section3">Task 2</a><br>
 
