@@ -49,4 +49,4 @@ a. The index above is linked to subject titles. For example, "I. About this page
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922909/242a2898-5cbc-11e5-8a5f-5db90823446d.png" />
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922910/2725b7b0-5cbc-11e5-91e2-5d340e7b6319.png" />
 <image src="https://cloud.githubusercontent.com/assets/13002608/9922911/2c609a7e-5cbc-11e5-8dab-2e941a9f06ca.png" />
-<image src="https://cloud.githubusercontent.com/assets/13002608/9923690/37388d44-5cc6-11e5-89e3-3bc8a504a6bc.jpg" />
+<image src="https://cloud.githubusercontent.com/assets/13002608/9923765/ca645792-5cc6-11e5-8704-2e806468f8d4.jpg" />
