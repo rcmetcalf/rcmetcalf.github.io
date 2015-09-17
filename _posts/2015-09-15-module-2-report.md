@@ -77,7 +77,7 @@ I think it would diffiuclt for someone else to use my organization structure, es
 <br>
 
 <a name="section3.3">c. Percentage of school-related content in digital and physical deskspace</a><br>
-
+I would say only 10-15% of my physical space is occupied by school-related content, most of that being textbooks. I only use a paper notebook in one class because laptops are not allowed. 
 <a name="section3.4">d. Pros and Cons of my organizational structure</a><br>
 
 <br>
