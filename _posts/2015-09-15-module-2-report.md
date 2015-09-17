@@ -38,6 +38,7 @@ a. Tasks I perform as a student:<br>
 * Write essays, module reports, and other written assignments <br>
 * Study for exams and quizzes <br>
 * Go to academic advising appointments <br>
+<br>
 b. Info I use to perform each task <br>
 c. How I organize these items in my workspace <br>
 
