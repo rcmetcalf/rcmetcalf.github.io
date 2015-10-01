@@ -89,7 +89,7 @@ body {
 }
 
 .block1 {
-	width: 850px;
+	width: 950px;
 	height: 4000px;
 	margin: 50px;
 	position: absolute;
@@ -101,7 +101,7 @@ h3 {
   font-weight: bold;
   font-size: 30px;
   color: #000000;
-  text-align: left;
+  text-align: center;
   text-transform: uppercase;
 }
 
