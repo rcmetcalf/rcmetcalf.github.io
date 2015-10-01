@@ -105,6 +105,12 @@ h3 {
   text-transform: uppercase;
 }
 
+h4 {
+	font-family: "Quicksand", sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: #000000;
+}
 
 .block1 p {
   font-family: "Quicksand", sans-serif;
