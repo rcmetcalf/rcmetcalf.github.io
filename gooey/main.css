@@ -1,22 +1,3 @@
-.sidebar {
-	border-top: 1px solid #99CC33;
-	border-left: 1px solid #99CC33;
-	height: 600px;
-	width: 200px;
-	position: absolute;
-	top: 720px;
-	left: 975px;
-	margin-right: 5px;
-	padding: 5px 0 0 5px;
-}
-
-.sidebar li {
-	color: #000000;
-	text-transform: uppercase;
-	font-size: 20px;
-	font-family: "Quicksand", sans-serif;
-}
-
 .nav {
 	border:1px solid #ccc;
     border-width:1px 0;
@@ -89,7 +70,6 @@ body {
 }
 
 .block1 {
-	width: 950px;
 	height: 4000px;
 	margin: 50px;
 	position: absolute;
@@ -117,33 +97,5 @@ h4 {
   color: #000000;
   font-size: 20px;
 }
-
-img {
-  border-radius: 50px;
-  width: 75%;
-}
-
-.contact {
-	width: 500px;
-	height: 400px;
-	font-family: "Quicksand", sans-serif;
-	font-size: 20px;
-	color: #000000;
-	font-weight: bold;
-	text-transform: uppercase;
-	position: absolute;
-	top: 700px;
-	left: 400px;
-}
-
-.contact p {
-	font-family: "Quicksand", sans-serif;
-	font-size: 40px;
-	font-weight: bold;
-	text-transform: uppercase;
-	color: #5E8978;
-}
-
-
 
 
