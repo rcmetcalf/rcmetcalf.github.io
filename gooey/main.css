@@ -98,4 +98,24 @@ h4 {
   font-size: 20px;
 }
 
+.contact {
+	width: 500px;
+	height: 400px;
+	font-family: "Quicksand", sans-serif;
+	font-size: 20px;
+	color: #000000;
+	font-weight: bold;
+	text-transform: uppercase;
+	position: absolute;
+	top: 700px;
+	left: 400px;
+}
+
+.contact p {
+	font-family: "Quicksand", sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #5E8978;
+}
 
