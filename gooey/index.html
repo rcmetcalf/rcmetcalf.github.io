@@ -44,18 +44,31 @@
 			<img src="https://cloud.githubusercontent.com/assets/13002608/10264318/c81cf22a-69d5-11e5-9878-b6b2de7edbd2.png"><br>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although this table is very small, it has many redundancies. Penguin publishing group is repeated 4 different times under entity "Publisher," and the Penguin email is repeated another 4 times, too. John Steinbeck is listed three times for three separate books. JK Rowling is also listed twice. The table is not sorted alphabetically, and there is no individual specific identifier, like a primary key, to distinguish between authors or titles. In all, this table could be better represented using a relational database.<br><br>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The relational database is created by breaking apart the flat database into multiple tables, or entities, with specific and relavent attributes. Using the example above, I would create entities like<br><br>
-			* Book -- attributes could be "Title" and "ISBN"<br>
-			* Publisher -- attributes could be "Name," "City," and "Email"<br>
-			* Author -- attributes could be "Name," "Age," and "Hometown"<br><br>
+			<ul>
+				<li>Book -- attributes could be "Title" and "ISBN"</li><br>
+				<li>Publisher -- attributes could be "Name," "City," and "Email"</li><br>
+				<li>Author -- attributes could be "Name," "Age," and "Hometown"</li><br>
+			</ul>
+			<br>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'll also need to create a primary key as a unique identifier for each book. I can use the ISBN number. These new categories will be related to each other in the database. Now, when someone wants to find out what books Penguin has published, they can create a query and search the database. In INLS 161, we did some basic database management practice, and we created a relational databse and queries from a large flat database. Here are some of the database files we worked with:<br><br>
-			* <a href="http://rcmetcalf.github.io/content/inls-161-book-database.odb">Book Database</a><br>
+			<ul>
+				<li><a href="http://rcmetcalf.github.io/content/inls-161-book-database.odb">Book Database</a><br></li>
+			</ul>
 			<br>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inside the above file, there are 2 tables or entities, Books and Publishers. After we created our relational database and added our publisher ID (PubID) primary key, we were able to create relationships between the tables. I created queries like "Books published in the U.S. before 1950" to find very specific information.<br>
 			<br>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we began this module, I knew the basics of HTML and CSS. I knew how to manipulate website templates like <a href="http://carte-noire.jacobtomlinson.co.uk/">this one</a> to create my own <a href="http://rcmetcalf.github.io">webpage</a>. I had also done a little bit of work with <a href="http://rcmetcalf.github.io/content/inls-161-book-database.odb">database management</a>. In all, I know more about the application of the languages 
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this module, I learned more about the standards and origin of these coding languages. HTML originated from SGML, or Standard Generalized Markup Language. 
-			
-			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before we began this module, I knew the basics of HTML and CSS. I knew how to manipulate website templates like <a href="http://carte-noire.jacobtomlinson.co.uk/">this one</a> to create my own <a href="http://rcmetcalf.github.io">webpage</a>. I had also done a little bit of work with <a href="http://rcmetcalf.github.io/content/inls-161-book-database.odb">database management</a>. In all, I know more about the application of the languages and databases than the theory behind them.<br><br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this module, I learned more about the standards and origin of these coding languages, found new coding tools, and learned about the types of relations in a database. I learned that HTML originated from SGML, or Standard Generalized Markup Language, and XML is the language used to describe the metadata of a document. Before this module, I did most of my coding at Codeanywhere.com, Github, or a plain text editor, but now I know about Text Wrangler! I like that it highlights tags for easier reading. Although I had worked with databases before, I did not now about the different types of relationships between entities. Here's what I learned:<br><br>
+			<ul>
+				<li>A one-to-one relationship is a connection where a first table is only associated to a second table at one point, and that second table is only associated to the first table at one point. Ex: A wife only has one husband, and a husband only has one wife. (This relationships is not common in databases)</li><br>
+				<li>
+					A one-to-many relationship is a connection where a first table is asscoiated to many points in a second table, but the second table is only associated to one point in the first table. Ex: A man has many sons, but the son only has one father. (This relationship is the most common)
+				</li><br>
+				<li>
+					A many-to-many relationship is a connection where a first table is associated to many points in a second table, and the second table is associated to many points in the first table. Ex: A family can have many pets, and a pet can have many owners (members of the family). (This relationship is less common than one-to-many, but it can be essential in the database)	
+				</li>
+				
+			</ul><br>
 			</p><br>
 			<div class="jumbotron-1">
 				2. How do you interact with the structures we have discussed? Talk about instances in your academic and non-academic life.</div><br>
