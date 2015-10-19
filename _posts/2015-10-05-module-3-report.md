@@ -8,7 +8,10 @@ tags:
 - report
 - coursework
 - web design
+- database management
+- html
+- css
 ---
-<center>Design a Webpage</center>
+<center>Information Structures</center>
 
-View a <a href="rcmetcalf.github.io/">webpage</a> I built, and read about information structures.
+View a <a href="rcmetcalf.github.io/gooey/">webpage</a> I built, and read more about information structures.
