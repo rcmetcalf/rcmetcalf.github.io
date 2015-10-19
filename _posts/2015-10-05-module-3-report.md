@@ -14,4 +14,4 @@ tags:
 ---
 <center>Information Structures</center>
 
-View a <a href="rcmetcalf.github.io/gooey/">webpage</a> I built, and read more about information structures.
+View a <a href="http://rcmetcalf.github.io/gooey/">webpage</a> I built, and read more about information structures.
