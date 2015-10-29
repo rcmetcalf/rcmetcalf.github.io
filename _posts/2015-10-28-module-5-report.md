@@ -10,7 +10,9 @@ tags:
 - information retrieval
 ---
 <strong>What have you acquired from the previous module? How are things you have learned different from what you knew before the module?</strong><br>
-When I previously thought about information retrieval, I primarily thought of Google searches. So when we started this module, I thought <a href="https://youtu.be/mTBShTwCnD4">this video about Google</a> best described my view of information retrieval. I've been using Google for as long as I can remember, but I have never known the information science behind the search engine. In this module, we learned a few things about Google's search process.<br>
+When I previously thought about information retrieval, I primarily thought of Google searches. So when we started this module, I thought this video about Google
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mTBShTwCnD4" frameborder="0" allowfullscreen></iframe>
+best described my view of information retrieval. I've been using Google for as long as I can remember, but I have never known the information science behind the search engine. In this module, we learned a few things about Google's search process.<br>
 
 First, I learned that Google uses the <strong>Boolean model</strong> in all of its web searches. The Boolean model is used to return "exact matches" from a query. For example, when I do a Google search for "blue socks," I receive results for exactly that -- blue socks. Not just the color blue, or not just socks. Google returns websites that match the query "blue AND socks."<br>
 
@@ -57,6 +59,7 @@ I found out that Kate's maiden name was Cobley, and in 1955 she boarded the pass
 <em>Ralph is listed at the bottom.</em>
 
 There were many times while I was researching that I found information that seemed like it was relevant to me because it matched my keywords; however, after some fact-checking with my mother (my go-to information retrieval machine), I realized this information did not match with my genealogy search. For example, I found this result for Francis G Boyle in military service records:<br>
+
 <img src="https://cloud.githubusercontent.com/assets/13002608/10810819/05f5390e-7ddb-11e5-8521-9cd02589c9e2.png"><br>
 
 Although this appeared to be my grandfather because of similarity in name, state, military enlistment, and marital status, my mother told me that Grandpa Francis did not serve in Hawaii, and he was a Tech Sergeant, not a Master Sergeant. Like Otto Müller, there are many Francis Boyles that fit the search in name, but not in reality. I think this illustrates again how important it is to understand the current limitations of information retrieval online.<br>
@@ -64,5 +67,5 @@ Although this appeared to be my grandfather because of similarity in name, state
 <strong>How do you think information retrieval is related to human life? Share your discoveries.</strong><br>
 I think information retrieval is an entirely human process. Humans have created and continued to utilize technology specifically for the improvement of information retrieval. We no longer use search engines like <a href="https://youtu.be/Sr3bWDBWnPE">Altavista</a> because it could not provide enough relevant, important information for users like newer search engines Yahoo and Google could. People depend on information retrieval for fast, accurate and relevant information that they can use in their everyday lives.
 
-But the use of information retrieval did not begin with search engines; libraries and archives have been in the information retrieval business much longer. Many of these institutions, like the <a href="http://archives.ncdcr.gov/">State Archives of North Carolina</a> are now digitalizing their collections so that people can access the information easier. Dr. Jamie Arguello even suggested that everyday apps like Facebook, Pandora, Twitter and Youtube are types of information retrieval systems. When I want to find a video, I usually go straight to Youtube. When I need to find a friend or classmate, I try to search for them on Facebook. These information retrieval systems are very closely associated with human-to-human interaction, and they have helped make the world more socially connected.
+But the use of information retrieval did not begin with search engines; libraries and archives have been in the information retrieval business much longer. Many of these institutions, like the <a href="http://archives.ncdcr.gov/">State Archives of North Carolina</a> are now digitalizing their collections so that people can access the information easier. I use online archive services like this very often in my genealogical searches! Dr. Jamie Arguello even suggested that everyday apps like Facebook, Pandora, Twitter and Youtube are types of information retrieval systems. When I want to find a video, I usually go straight to Youtube. When I need to find a friend or classmate, I try to search for them on Facebook. These information retrieval systems are very closely associated with human-to-human interaction, and they have helped make the world more socially connected.
 
