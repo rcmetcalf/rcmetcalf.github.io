@@ -11,7 +11,7 @@ tags:
 ---
 <strong>What have you acquired from the previous module? How are things you have learned different from what you knew before the module?</strong><br>
 When I previously thought about information retrieval, I primarily thought of Google searches. So when we started this module, I thought this video about Google<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mTBShTwCnD4" frameborder="0" allowfullscreen>video</iframe><br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mTBShTwCnD4" frameborder="0" allowfullscreen>video</iframe></center><br>
 best described my view of information retrieval. I've been using Google for as long as I can remember, but I have never known the information science behind the search engine. In this module, we learned a few things about Google's search process.<br>
 
 First, I learned that Google uses the <strong>Boolean model</strong> in all of its web searches. The Boolean model is used to return "exact matches" from a query. For example, when I do a Google search for "blue socks," I receive results for exactly that -- blue socks. Not just the color blue, or not just socks. Google returns websites that match the query "blue AND socks."<br>
