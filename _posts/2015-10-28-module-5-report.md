@@ -9,7 +9,7 @@ tags:
 - coursework
 - information retrieval
 ---
-1. What have you acquired from the previous module? How are things you have learned different from what you knew before the module?<br>
+<strong>What have you acquired from the previous module? How are things you have learned different from what you knew before the module?</strong><br>
 When I previously thought about information retrieval, I primarily thought of Google searches. So when we started this module, I thought <a href="https://youtu.be/mTBShTwCnD4">this video about Google</a> best described my view of information retrieval. I've been using Google for as long as I can remember, but I have never known the information science behind the search engine. In this module, we learned a few things about Google's search process.<br><br>
 
 First, I learned that Google uses the <strong>Boolean model</strong> in all of its web searches. The Boolean model is used to return "exact matches" from a query. For example, when I do a Google search for "blue socks," I receive results for exactly that -- blue socks. Not just the color blue, or not just socks. Google returns websites that match the query "blue AND socks."<br>
@@ -31,11 +31,11 @@ While writing this report, I tried to search for Müller one last time, and I th
 
 
 
-2. How do you search, and evaluate information? Talk about instances in your academic and non-academic life.<br>
+<strong>How do you search, and evaluate information? Talk about instances in your academic and non-academic life.</strong><br>
 On any given day, I probably do 10-15 Google searches. 
 
 
-3. How do you think information retrieval is related to human life? Share your discoveries.<br>
+<strong>How do you think information retrieval is related to human life? Share your discoveries.</strong><br>
 I think information retrieval is an entirely human process. We have created and continue to utilize technology specifically for the improvement of information retrieval. The interest in information retrieval did not begin with Google. Ancient institutions like the Library of Alexandria catalogued and 
 
 
