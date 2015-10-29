@@ -26,7 +26,7 @@ Lastly, I learned that <strong>Google does not know everything</strong>. It is h
 
 * Otto Müller the German painter. He died in 1930.<br>
 * Otto Müller the German novelist. He died in 1894.<br>
-* Otto-Werner Mueller the German conductor. He is still living.<br>
+* Otto-Werner Mueller the German conductor. He is still living.<br><br>
 
 Google did its job correctly. It returned results with the keywords "Otto Muller" or "Otto Mueller." But it could not find the Otto I was looking for. As it turned out, I should have directed my queries about Müller to Dr. Bergquist, not Google; Dr. Bergquist lived in Gerhardsbrunn for a while, had known who Otto Müller was, and even owned a copy of a book that contained information about Müller, including his date of death.
 
