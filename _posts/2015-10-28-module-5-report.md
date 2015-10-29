@@ -49,17 +49,20 @@ I started my genealogical search at <a href="http://www.nationalarchives.gov.uk/
 
 My biggest breakthrough in research happened when I did a simple search: "Ralph Sharman Higham Ferrers." I found a website created by a family that had extenisvely researched their genealogy. Lucky for me, <a href="http://jones3995.tripod.com/blackwellsullivan/blackwell.html">this website</a> contained information about Kate Sharman, my great-grandmother, and her husband Ralph's family, the Sharmans and Blackwells. 
 
-<img src="">
+<img src="https://cloud.githubusercontent.com/assets/13002608/10810953/09fbb508-7ddd-11e5-8c47-115d19d71ca4.png">
 
-I found out that Kate's maiden name was Cobley, and in 1955 she boarded the passenger ship Queen Elizabeth for New York. My guess is that she was on her way to visit her only daughter, and my grandmother, Molly Sharman (now married to Francis Boyle) in the United States. After the discovery of this website, I learned that Ralph served and was injured in WWI. I was later able to find a certificate that showed Ralph had received a medal of honor for his service.<br>
+I found out that Kate's maiden name was Cobley, and in 1955 she boarded the passenger ship Queen Elizabeth for New York. My guess is that she was on her way to visit her only daughter, and my grandmother, Molly Sharman (now married to Francis Boyle) in the United States. After the discovery of this website, I also learned that Ralph served and was injured in WWI. I was later able to find a certificate that showed he had received a medal of honor for his service.<br>
 
-<img src="">
+<img src="https://cloud.githubusercontent.com/assets/13002608/10810830/375f7964-7ddb-11e5-960d-5b114d041451.png">
+<em>Ralph is listed at the bottom.</em>
 
-There were many times while I was researching that I found information that seemed like it was relevant to me because it matched my keywords; however, after some fact-checking with my mother (my go-to information retrieval machine) I realized this information did not apply to my genealogy search. For example, I found this result for Francis G Boyle in military service records:<br>
-<img src="">
+There were many times while I was researching that I found information that seemed like it was relevant to me because it matched my keywords; however, after some fact-checking with my mother (my go-to information retrieval machine), I realized this information did not match with my genealogy search. For example, I found this result for Francis G Boyle in military service records:<br>
+<img src="https://cloud.githubusercontent.com/assets/13002608/10810819/05f5390e-7ddb-11e5-8521-9cd02589c9e2.png"><br>
+
+Although this appeared to be my grandfather because of similarity in name, state, military enlistment, and marital status, my mother told me that Grandpa Francis did not serve in Hawaii, and he was a Tech Sergeant, not a Master Sergeant. Like Otto Müller, there are many Francis Boyles that fit the search in name, but not in reality. I think this illustrates again how important it is to understand the current limitations of information retrieval online.<br>
 
 <strong>How do you think information retrieval is related to human life? Share your discoveries.</strong><br>
-I think information retrieval is an entirely human process. Humans have created and continued to utilize technology specifically for the improvement of information retrieval. 
+I think information retrieval is an entirely human process. Humans have created and continued to utilize technology specifically for the improvement of information retrieval. We no longer use search engines like <a href="https://youtu.be/Sr3bWDBWnPE">Altavista</a> because it could not provide enough relevant, important information for users like newer search engines Yahoo and Google could. People depend on information retrieval for fast, accurate and relevant information that they can use in their everyday lives.
 
-But the interest in information retrieval did not begin with Google; libraries and archives have been in the information retrieval business much longer than search engines. Many of these institutions, like the <a href="http://archives.ncdcr.gov/">State Archives of North Carolina</a> are now digitalizing their collections so that people can access the information easier. Jamie Arguello even suggested that everyday apps like Facebook, Pandora, Twitter and Youtube are types of information retrieval systems. When I want to find a video, I usually go straight to Youtube. When I need to find a friend or classmate, I try to search for them on Facebook. These specialized retrieval systems can expedite a search process by narrowing down the type of information displayed. Sometimes, a Google search can just be too broad.
+But the use of information retrieval did not begin with search engines; libraries and archives have been in the information retrieval business much longer. Many of these institutions, like the <a href="http://archives.ncdcr.gov/">State Archives of North Carolina</a> are now digitalizing their collections so that people can access the information easier. Dr. Jamie Arguello even suggested that everyday apps like Facebook, Pandora, Twitter and Youtube are types of information retrieval systems. When I want to find a video, I usually go straight to Youtube. When I need to find a friend or classmate, I try to search for them on Facebook. These information retrieval systems are very closely associated with human-to-human interaction, and they have helped make the world more socially connected.
 
