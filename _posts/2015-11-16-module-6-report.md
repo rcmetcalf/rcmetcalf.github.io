@@ -23,8 +23,6 @@ In a class about information science and technology, it's easy for me that phone
 
 * Mooer's Law states that if a design is too hard or painful to use, people will not use it.<br>
 
-
-
 In Module 6, one familiar theme for me was "know your audience." As a student in a public relations & advertising class and journalism class, the number one question to ask before you begin crafting a campaign or writing a news stories is, "Who is my audience?" The same question applies to information design. To build effective interfaces, webpages, and other materials, designers must know the audience. In class, we discussed the different interface designs in airplanes. For example, in commercial airplanes, the cockpit interface is purposefully designed to be symmetrical so that when pilots switch seats, all of the controls and buttons are still in the same place as before. Designers of the interface needed to know their audience (pilots) to understand how to best design the cockpit interface.<br>
 
 In INLS 161 this past summer, I was introduced to the world of information design through my webpage; I changed background and font colors, bolded headings, and added extra navigation features to the top left drop-down menu. I made all of these changes to improve readability, clarity, and ease of information seeking. Before this module, though, I thought that information design only applied to web design. In INLS 201, however, we learned the information design can apply to buildings and any technological interface as well. Manning Hall, for example, is a type of user interface system. People interact with Manning's different floors, classrooms, and bathrooms when navigating the building. Despite signage, Manning Hall is a poorly designed user interface system. Only experienced Manning Hall users (professors or faculty) will know how to navigate the system with success.<br>
@@ -32,7 +30,7 @@ In INLS 161 this past summer, I was introduced to the world of information desig
 <b>How has good and how has bad information design affected you? Talk about instances in your academic and non-academic life.</b><br>
 Good and bad design has influenced me on a daily basis. In my non-academic life, I access good information design in popular social media applications. My favorite apps, Instagram and Snapchat, are both simple to use but have a lot of features. Snapchat is so easy to use that my 2 1/2 year old niece can use it:<br>
 
-<insert picture><br>
+<img src="https://cloud.githubusercontent.com/assets/13002608/11220338/7d5f35ba-8d2d-11e5-88ad-59be7cd69791.PNG"><br>
 
 Because these social media apps are well-designed, I end up using them very often. Mooer's Law does not affect these interfaces!<br>
 
@@ -40,7 +38,7 @@ Bad design is also apparent in my personal life. As a committee chair in my soro
 
 Good design in my academic life is very important because it increases my organization and retention of class discussions. I use the "Notebook" template in Microsoft word to take all of my class notes:<br>
 
-<insert picture><br>
+<img src="https://cloud.githubusercontent.com/assets/13002608/11220211/c943f1c4-8d2c-11e5-82bc-e6d29ac30b52.png"><br>
 
 I like this interface because it is easy for me to search the document for keywords, created dated tabs for each class, and record audio notes alongside my written notes. If I wrote notes in a plain word document, I would have to either create a new document for each class, or continuously add to a very long document. Taking notes on my laptop also allows me to take notes faster, include links, and insert pictures or tables if needed.<br>
 
