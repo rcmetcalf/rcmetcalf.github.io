@@ -13,4 +13,4 @@ tags:
 ---
 
 
-<a href="http://rcmetcalf.github.io/reveal.js" target="_blank">Click here to view my final presentation for INLS 201.</a>
+<a href="http://rcmetcalf.github.io/rcmetcalf/reveal.js" target="_blank">Click here to view my final presentation for INLS 201.</a>
