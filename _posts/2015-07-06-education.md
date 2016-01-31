@@ -7,6 +7,7 @@ author: Rachel Metcalf
 tags:
  - journalism
  - archaeology
+ - anthropology
  - information science
  - degree
  - GPA
@@ -17,12 +18,9 @@ tags:
 # <center>Proud Tar Heel at the University of North Carolina at Chapel Hill.</center>  
 
 
-I have a diverse range of interests, including history, writing, design, and event planning. I was able to structure a degree program that fully engaged my interests.
+I have a diverse range of interests, including history, writing, design, and event planning.
 
-I am working towards a B.A. in Media and Journalism, with a concentration in Public Relations, and a B.A. in Archaeology. In addition to these degree programs, I am minoring in Information and Library Science.
-
-In Fall 2015, I will begin taking core classes for the Media and Journalism degree program.
-
+I am working towards a B.A. in Anthropology and a B.A. in Archaeology. In addition to these degree programs, I am minoring in Information and Library Science. I hope to combine these interests for a career in museums, archives, or cultural resources management.
 
 Courses:
 
@@ -36,9 +34,13 @@ Courses:
 * ECON 101 Introduction to Economics
 * ECON 410 Intermediate Micro Theory
 * INLS 161 Tools for Information Literacy
+* INLS 201 Foundations of Information Science
+* JOMC 137 Introduction to Advertising and Public Relations
+* JOMC 153 Writing and Reporting
 * HIST 127 American History to 1865
+* HIST 128 American History since 1865
 * SPAN 203 Intermediate Spanish I
 * SPAN 204 Intermediate Spanish II
  
  
-Cumulative GPA: 3.703
+Cumulative GPA: 3.76
